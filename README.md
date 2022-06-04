@@ -47,6 +47,10 @@
 - バックエンド: Ruby on Rails
 - インフラ・開発環境など: AWS（ECS, OpenSearch, RDS, ALB etc.）/ Firebase Authentication / Terraform / Docker / Elasticsearch
 
+## リポジトリ
+- バックエンド: https://github.com/hiromi-mitsuoka/startups-note-backend
+- インフラ: https://github.com/hiromi-mitsuoka/startups-note-infra
+
 # サービスに関する補足
 
 ## サービスの種類
