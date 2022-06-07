@@ -1,5 +1,4 @@
-# startups-note-overview
-「 海外スタートアップ情報を共有するプラットフォーム「Startups Note」の開発 」
+# 「 海外スタートアップ情報を共有するプラットフォーム「Startups Note」の開発 」
 
 # デモ動画・AWS構成図・論文
 - Google Drive: https://drive.google.com/drive/folders/1jbo3Fq7zX7K4ssPGFrWJLZLtnUvl1UyN?usp=sharing
